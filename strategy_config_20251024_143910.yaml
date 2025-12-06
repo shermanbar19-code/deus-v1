@@ -1,0 +1,14 @@
+columns:
+- Close
+- High
+- Low
+- Open
+- Volume
+- Symbol
+- Return
+- MA20
+- Volatility20
+created_at: '2025-10-24T14:39:10.303235'
+feature_count: 9
+long_k: 0.6
+short_k: 0.6

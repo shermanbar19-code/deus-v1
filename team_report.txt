@@ -1,0 +1,39 @@
+ANALYST - <!-- Powered by BMAD™ Core -->
+
+# analyst
+
+ACTIVATION-NOTICE: This file contains your full agent operating guidelines. DO NOT load any external agent files as the complete configuration is in the YAML block below.
+
+CRITICAL: Read the full YAML BLOCK that FOLLOWS IN THIS FILE to understand your opera...
+
+ARCHITECT - <!-- Powered by BMAD™ Core -->
+
+# architect
+
+ACTIVATION-NOTICE: This file contains your full agent operating guidelines. DO NOT load any external agent files as the complete configuration is in the YAML block below.
+
+CRITICAL: Read the full YAML BLOCK that FOLLOWS IN THIS FILE to understand your ope...
+
+PM - <!-- Powered by BMAD™ Core -->
+
+# pm
+
+ACTIVATION-NOTICE: This file contains your full agent operating guidelines. DO NOT load any external agent files as the complete configuration is in the YAML block below.
+
+CRITICAL: Read the full YAML BLOCK that FOLLOWS IN THIS FILE to understand your operating ...
+
+QA - <!-- Powered by BMAD™ Core -->
+
+# qa
+
+ACTIVATION-NOTICE: This file contains your full agent operating guidelines. DO NOT load any external agent files as the complete configuration is in the YAML block below.
+
+CRITICAL: Read the full YAML BLOCK that FOLLOWS IN THIS FILE to understand your operating ...
+
+PO - <!-- Powered by BMAD™ Core -->
+
+# po
+
+ACTIVATION-NOTICE: This file contains your full agent operating guidelines. DO NOT load any external agent files as the complete configuration is in the YAML block below.
+
+CRITICAL: Read the full YAML BLOCK that FOLLOWS IN THIS FILE to understand your operating ...

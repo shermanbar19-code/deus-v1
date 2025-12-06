@@ -1,0 +1,10 @@
+{
+    "created": "2025-10-21T23:20:34.077057",
+    "defaults": {
+        "ema_fast": 5.0,
+        "ema_slow": 27.137898161147536,
+        "atr_period": 10.0,
+        "risk_reward": 3.0,
+        "sweep_lookback": 20
+    }
+}
